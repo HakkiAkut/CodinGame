@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a67450b4-1d07-40dc-b7db-474681bb238b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Player.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sfO6vjit3LX5qfhYQ00kYecNNv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\repo\bot-programming\platinum-rift-episode1\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="deneme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platinum-rift-episode1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deneme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.deneme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a67450b4-1d07-40dc-b7db-474681bb238b" name="Default Changelist" comment="" />
+      <created>1621260007000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621260007000</updated>
+    </task>
+    <task id="LOCAL-00001" summary="updated - currently in Bronze League">
+      <created>1621283691692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621283691693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="focus changed 6 to 4 platinum - currently in Silver League">
+      <created>1622638943958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622638943958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="currently in Silver League rank 110">
+      <created>1622649838270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622649838270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="currently in Silver League rank 1 after bot">
+      <created>1622660388918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622660388918</updated>
+    </task>
+    <task id="LOCAL-00005" summary="currently in Gold League">
+      <created>1622793876213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622793876213</updated>
+    </task>
+    <task id="LOCAL-00006" summary="late-game pod spawn strategy added, Gold League">
+      <created>1622818000527</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622818000527</updated>
+    </task>
+    <task id="LOCAL-00007" summary="extracted first turn 1v1 spawn algorithm to another method">
+      <created>1622819554533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622819554533</updated>
+    </task>
+    <task id="LOCAL-00008" summary="basic spawn operations extracted to another method">
+      <created>1622821078275</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622821078275</updated>
+    </task>
+    <task id="LOCAL-00009" summary="extracted first round 1v2+ spawn algorithm to another method">
+      <created>1622824067191</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622824067191</updated>
+    </task>
+    <task id="LOCAL-00010" summary="extracted late game spawn algorithm to another method">
+      <created>1622826488952</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622826488952</updated>
+    </task>
+    <task id="LOCAL-00011" summary="extracted mid game spawn algorithm to another method">
+      <created>1622827168870</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622827168870</updated>
+    </task>
+    <task id="LOCAL-00012" summary="comments are added">
+      <created>1622836787821</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1622836787821</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated - currently in Bronze League" />
+    <MESSAGE value="focus changed 6 to 4 platinum - currently in Silver League" />
+    <MESSAGE value="currently in Silver League rank 110" />
+    <MESSAGE value="currently in Silver League rank 1 after bot" />
+    <MESSAGE value="currently in Gold League" />
+    <MESSAGE value="late-game pod spawn strategy added, Gold League" />
+    <MESSAGE value="extracted first turn 1v1 spawn algorithm to another method" />
+    <MESSAGE value="basic spawn operations extracted to another method" />
+    <MESSAGE value="extracted first round 1v2+ spawn algorithm to another method" />
+    <MESSAGE value="extracted late game spawn algorithm to another method" />
+    <MESSAGE value="extracted mid game spawn algorithm to another method" />
+    <MESSAGE value="comments are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments are added" />
+  </component>
+</project>
