@@ -1,8 +1,7 @@
-# coding-game-HakkiAkut
-coding-game-HakkiAkut created by GitHub Classroom
+# **Platinum Rift Episode 1**
 
 ## **Rank**
-The current rank was Gold League, 61/256
+The current rank was Gold League, 60/256
 
 ## **Strategy**
 There is two type of operations which is moving pods and purchasing pods. Player firstly moves then purchases pods so new purchased pods cannot be moved.
